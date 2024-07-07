@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ABP_Majha.png" group-title="Spor",TRT1 (720p) [7/24]
+https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
+#EXTINF:-1 tvg-id="SELAMM.in" tvg-logo="https://i.imgur.com/SjbtAFh.png" group-title="Dilm",İzlesne Lan (1080p)
+https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_98835_eng=98800-video=2702400.m3u8
+
