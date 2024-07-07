@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FoxSports.in" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Fox Sports [7/24]
-https://lnc-fox-sports2.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.in" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Dilm",Tennis Channel [7/24]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",TRT Spor [7/24]
+https://tv-trtspor1.medya.trt.com.tr/master_720p.m3u8
+#EXTINF:-1 tvg-id="TRTSporYıldız.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Dilm",TRT Spor Yıldız [7/24]
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="SPortsTV.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Dilm",SPorts TV [7/24]
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Dilm",TV 8 [7/24]
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
