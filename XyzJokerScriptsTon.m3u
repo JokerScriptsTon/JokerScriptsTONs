@@ -1,11 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",TRT Spor [7/24]
 https://tv-trtspor1.medya.trt.com.tr/master_720p.m3u8
-#EXTINF:-1 tvg-id="TRTSporYıldız.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Dilm",TRT Spor Yıldız [7/24]
+#EXTINF:-1 tvg-id="TRTSporYıldız.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Spor",TRT Spor Yıldız [7/24]
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="SPortsTV.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Dilm",SPorts TV [7/24]
+#EXTINF:-1 tvg-id="SPortsTV.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Spor",SPorts TV [7/24]
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Dilm",TV 8 [7/24]
+#EXTINF:-1 tvg-id="star.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Kanal",Star TV [7/24]
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Kanal",TV 8 [7/24]
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
-
+#EXTINF:-1 tvg-id="Kanald.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Kanal",Kanal D [7/24]
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="Grand.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Kanal",Grand Cinema [7/24]
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Kanal",Cine5 [7/24]
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1 tvg-id="hbrturk.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Kanal",Haber Türk [7/24]
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="trthbr.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Kanal",TRT Haber [7/24]
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Kanal",TRT Belgesel [7/24]
+chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
