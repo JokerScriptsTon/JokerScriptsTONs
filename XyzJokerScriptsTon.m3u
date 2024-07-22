@@ -1,49 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BS1xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Beşiktaş - Shaktar Donetsk
-https://odin.cd9184d3e95e6.shop/15/master.m3u8
-#EXTINF:-1 tvg-id="BS1xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Litvanya - Türkiye
-https://odin.cd9184d3e95e6.shop/13/master.m3u8
-
-#EXTINF:-1 tvg-id="BS1xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Bein Sports 1 [7/24]
-https://odin.cd9184d3e95e6.shop/1/master.m3u8
-
-#EXTINF:-1 tvg-id="BS1xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Bein Sports 2 [7/24]
-https://odin.cd9184d3e95e6.shop/2/master.m3u8
-
-#EXTINF:-1 tvg-id="BS1xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Bein Sports 3 [7/24]
-https://odin.cd9184d3e95e6.shop/3/master.m3u8
-
-#EXTINF:-1 tvg-id="BS4xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Bein Sports 4 [7/24]
-https://odin.cd9184d3e95e6.shop/4/master.m3u8
-
-#EXTINF:-1 tvg-id="BS5xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Bein Sports 5 [7/24]
-https://odin.cd9184d3e95e6.shop/5/master.m3u8
-
-#EXTINF:-1 tvg-id="BSMax1xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Bein Sports Max 1 [7/24]
-https://odin.cd9184d3e95e6.shop/7/master.m3u8
-
-#EXTINF:-1 tvg-id="BsMax1xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Bein Sports Max 2 [7/24]
-https://odin.cd9184d3e95e6.shop/8/master.m3u8
-
-#EXTINF:-1 tvg-id="SSpor1xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",S Sport [7/24]
-https://odin.cd9184d3e95e6.shop/13/master.m3u8
-
-#EXTINF:-1 tvg-id="SSpor2xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",S Sport 2 [7/24]
-https://odin.cd9184d3e95e6.shop/14/master.m3u8
-
-#EXTINF:-1 tvg-id="Tivibu1xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Tivibu Spor 1 [7/24]
-https://odin.cd9184d3e95e6.shop/9/master.m3u8
-
-#EXTINF:-1 tvg-id="Tivibu2xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Tivibu Spor 2 [7/24]
-https://odin.cd9184d3e95e6.shop/10/master.m3u8
-
-#EXTINF:-1 tvg-id="Tivibu3xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Tivibu Spor 3 [7/24]
-https://odin.cd9184d3e95e6.shop/11/master.m3u8
-
-#EXTINF:-1 tvg-id="Tivibu4xyz.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Tivibu Spor 4 [7/24]
-https://odin.cd9184d3e95e6.shop/12/master.m3u8
-
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",TRT Spor [7/24]
 https://tv-trtspor1.medya.trt.com.tr/master_720p.m3u8
