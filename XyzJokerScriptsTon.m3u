@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="live.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Galatasaray - Lecce 
-https://odin.cd9184d3e95e6.shop/15/chunk_hd.m3u8
-#EXTINF:-1 tvg-id="live2.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",Galatasaray - Lecce 
-https://cfr.laftervor.shop/M571297/M571297.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Spor",TRT Spor [7/24]
